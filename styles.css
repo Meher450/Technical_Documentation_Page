@@ -1,3 +1,6 @@
+*{
+  overflow:scroll;
+}
 html {
   display: block;
   font-family: 'Playfair Display', serif;
